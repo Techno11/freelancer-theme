@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2019-01-12
+img: transparency.png
+alt: Usher but wierd, distorted, and transparent
+project-date: April 2019
+client: General Design
+category: Illustrator
+description: This lesson we learned how to use transparency in illustrator. I wrote the word "Usher" and changed various colors and made them slightly transparent, as well as using various blending options.
+
+---
