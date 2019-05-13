@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2019-01-18
+img: poster.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: February 2019
+client: General Design
+category: Photoshop
+description: Our 3rd Project was to design a movie poster, incorporating 3 of these <a href="https://blog.adobespark.com/2016/07/27/8-basic-design-principles-to-help-you-create-better-graphics/">eight</a> design principals. We were also required to review the poster <a href="https://youtu.be/Bf3X-pF8Ti8">like here</a>.
 
 ---
