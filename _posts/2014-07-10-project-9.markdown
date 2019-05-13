@@ -7,6 +7,6 @@ alt: Old apple ad reworked
 project-date: April 2019
 client: General Design
 category: Illustrator/Photoshop
-description: We were tasked here to find an old ad and "modernize" it using more modern examples, or rework it to push a different call to action. I hate apple, do I chose to change an old "Buy Apple" ad and made it to push towards buying a Google phone.
+description: We were tasked here to find an old ad and "modernize" it using more modern examples, or rework it to push a different call to action. I hate Apple, do I chose to change an old "Buy Apple" ad and made it to push towards buying a Google phone.
 
 ---
