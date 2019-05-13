@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2019-01-14
+img: coloring.jpg
+alt: Coloring/Tracing Objects
+project-date: April 2019
+client: General Design
+category: Illustrator
+description: This lesson we learned how to trace objects.  We were assigned an image to trace and color, then were tasked to find our own image and trace it. I chose a computer to trace.
+
+---
