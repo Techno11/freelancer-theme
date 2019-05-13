@@ -54,7 +54,7 @@ address:
   - line: Hartland, MI 48353
 
 # Credits content
-credits: 'Theme inspired by <a href="http://startbootstrap.com">these awesome people.</a>.'
+credits: 'Theme inspired by <a href="http://startbootstrap.com">these awesome people</a>.'
 
 # Build settings
 markdown: kramdown
