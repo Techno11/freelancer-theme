@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 7
-date: 2019-01-14
+date: 2019-01-13
 img: coloring.jpg
 alt: Coloring/Tracing Objects
 project-date: April 2019
