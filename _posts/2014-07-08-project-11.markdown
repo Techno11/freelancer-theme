@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2019-01-09
+img: HartlandPACFlyer.jpg
+alt: Hartland Performing Arts Center Flyer
+project-date: April/May 2019
+client: Hartland Community Education
+category: Illustrator
+description: In this project, we were tasked with finding real-world clients and designing a flier for them.  I found a representative of the Hartland Performing Arts Center and contacted him, and with his criteria this is what I was able to come up with.
+
+---
