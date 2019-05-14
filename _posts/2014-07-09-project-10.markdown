@@ -2,7 +2,7 @@
 layout: default
 modal-id: 10
 date: 2019-01-10
-img: final-01.jpg
+img: final-01.png
 alt: Julia Pfeiffer Burns State Park Info Flyer
 project-date: April 2019
 client: General Design
