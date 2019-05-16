@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2019-01-08
+img: Full-Review.jpg
+alt: Avengers: Endgame Flyer
+project-date: April/May 2019
+client: General Design
+category: InDesign
+description: This Semester's theme was Movies, so we took a field trip to tour a movie theater and saw Avengers: Endgame.  We were then tasked to create a movie review.
+
+---
